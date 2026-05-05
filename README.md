@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aoi
+# Hi there 👋
 
 <div align="center">
 
