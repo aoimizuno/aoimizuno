@@ -6,11 +6,6 @@
 
 </div>
 
-<div align="center">
-
-📍 **Nagoya, Japan** &nbsp;|&nbsp; 📧 [monfra875@gmail.com](mailto:monfra875@gmail.com) &nbsp;|&nbsp; 🐙 [github.com/aoimizuno](https://github.com/aoimizuno)
-
-</div>
 
 ---
 
